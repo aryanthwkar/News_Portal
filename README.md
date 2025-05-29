@@ -21,10 +21,22 @@ This is a News Portal website created using HTML, CSS, JavaScript, and React. Th
 ## Getting Started
 
 To run this project locally:
-1. Clone the repository:
+1. Clone the repository:https://github.com/aryanthwkar/News_Portal.git
 2. Install dependencies:
-3. Start the development server:
-4. Open your browser and go to `http://localhost:3000`.
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+4. Start the development server:
+   "scripts": {
+    "dev": "webpack serve",
+    "start": "react-scripts start"
+  }
+6. Open your browser and go to `http://localhost:3000`.
 
 ## Project Structure
 
@@ -45,3 +57,6 @@ This project is open source and available under the MIT License.
 ---
 
 Feel free to contribute or reach out if you want to improve the website!
+#Output
+![image](https://github.com/user-attachments/assets/f9e7852a-7ac9-40ad-a169-370c0769eb8c)
+
